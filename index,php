@@ -1,0 +1,5 @@
+<?php
+return date('Y');
+// вызов снипетта [[!getYear]]
+// Автоматическая смена года с без сниппета
+// [[!+nowdate:default=`now`:strtotime:date=`%Y`]]
